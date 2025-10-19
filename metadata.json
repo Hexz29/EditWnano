@@ -1,0 +1,5 @@
+{
+  "name": "Editor de Fotos IA (Nano Banana)",
+  "description": "Envie uma foto e use um comando de texto para editá-la com o poder da IA. Este aplicativo usa o modelo Gemini 'Nano Banana' (gemini-2.5-flash-image) para edição de imagens rápida e criativa.",
+  "requestFramePermissions": []
+}
